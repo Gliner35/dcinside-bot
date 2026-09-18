@@ -1,0 +1,20 @@
+# === 비밀/인증 (절대 커밋 금지) ===
+.env
+cookies.json
+*.pem
+*.key
+
+# === 런타임 데이터 ===
+memory.json
+activity.jsonl
+bot_err.log
+bot_out.log
+run.log
+logs/
+chroma_db/
+__pycache__/
+*.pyc
+
+# === 가상환경 ===
+.venv/
+venv/

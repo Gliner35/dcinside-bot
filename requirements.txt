@@ -1,0 +1,5 @@
+requests>=2.31
+beautifulsoup4>=4.12
+openai>=1.30
+chromadb>=0.4.0
+google-genai>=1.0.0
